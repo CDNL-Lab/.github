@@ -1,8 +1,18 @@
+<div align="center">
+
 # Cognitive Development & Neuroimaging Laboratory
 
-**Columbia University Irving Medical Center · New York State Psychiatric Institute**
+### Columbia University Irving Medical Center · New York State Psychiatric Institute
 
-The Cognitive Development & Neuroimaging Laboratory (CDNL), directed by
+**Developmental neuroscience · Neuroimaging · Psychopathology · Intergenerational neuroscience**
+
+[Lab Website](https://www.columbiapsychiatry.org/research-labs/marsh-lab)
+
+</div>
+
+---
+
+The **Cognitive Development & Neuroimaging Laboratory (CDNL)**, directed by
 Rachel Marsh, PhD, investigates the neurodevelopmental mechanisms underlying
 self-regulatory processes and psychiatric disorders that emerge during
 childhood and adolescence.
@@ -13,16 +23,24 @@ generations.
 
 ## Research
 
-- **Developmental neuroimaging**
-- **Intergenerational neuroscience**
-- **Developmental psychopathology**
-- **Computational and reproducible methods**
+**Developmental Neuroimaging**  
+Development of neural circuits supporting self-regulatory processes.
 
-## Open Science & Code
+**Developmental Psychopathology**  
+Neurodevelopmental mechanisms underlying psychiatric symptoms and disorders.
 
-This GitHub organization hosts code, computational tools, analysis workflows,
-and reproducibility resources developed by members of the CDNL.
+**Intergenerational Neuroscience**  
+Brain and behavioral processes across parents and children.
 
-## Links
+**Computational Methods**  
+Reproducible approaches for multimodal neuroimaging, behavioral, and
+longitudinal data.
 
-[Laboratory Website](https://www.columbiapsychiatry.org/research-labs/marsh-lab)
+## Code & Resources
+
+This organization hosts analysis pipelines, computational tools, and
+reproducibility resources developed by members of the CDNL.
+
+> Research data are not hosted in public repositories. Code and resources
+> are shared in accordance with participant privacy requirements, study
+> protocols, and institutional policies.
